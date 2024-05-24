@@ -9,6 +9,6 @@ Je suis un développeur passionné par la création de solutions innovantes. Voi
 
 # Mes Projets
 
-- **Projet 1** : Description du projet 1.
-- **Projet 2** : Description du projet 2.
+- **Projet 1** : Certification en cybersécurité.
+- **Projet 2** : Maitriser l'utilisation de github .
 - **Projet 3** : Description du projet 3.
